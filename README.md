@@ -107,7 +107,7 @@ pip install -r requirements.txt
 
 ## Requirements
 
-- Python 3.8 or later
+- Python 3.8.10
 - DeepSpeech 0.9.3 model files
 - Dependencies specified in `requirements.txt`
 
